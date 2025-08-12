@@ -1,0 +1,3 @@
+mediapipe
+inference
+flask
